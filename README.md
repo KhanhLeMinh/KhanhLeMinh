@@ -1,16 +1,17 @@
-## Hi there 👋
+# Welcome to My GitHub Profile 👋
+## About Me
 
-<!--
-**KhanhLeMinh/KhanhLeMinh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 📫 How to reach me: khanhleminhit@gmail.com.
+- 😄 Pronouns: He/Him.
 
-Here are some ideas to get you started:
+## Connect with Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Website](https://khanhleminh.github.io)
+
+## GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=KhanhLeMinh&show_icons=true&theme=radical)
+
+## Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KhanhLeMinh&layout=compact)
