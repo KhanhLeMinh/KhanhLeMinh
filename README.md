@@ -10,8 +10,4 @@
 
 ## GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=KhanhLeMinh&show_icons=true&theme=radical)
-
-## Top Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KhanhLeMinh&layout=compact)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=KhanhLeMinh&show_icons=true&theme=radical&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
