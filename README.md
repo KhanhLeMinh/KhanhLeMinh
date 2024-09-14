@@ -22,7 +22,3 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=KhanhLeMinh&theme=radical&no-bg=true" />
 </p>
-
-&nbsp;<div align="center">
-  [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF)
-</div>
